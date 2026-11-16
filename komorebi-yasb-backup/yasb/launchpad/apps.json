@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Playnite",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Playnite\\Playnite.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\playnite_1779579022477.png",
+    "type": "app",
+    "group": null,
+    "id": 1779579022478
+  },
+  {
+    "title": "TradingView",
+    "path": "explorer.exe shell:AppsFolder\\TradingView.Desktop_n534cwy3pjxzj!TradingView.Desktop",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\tradingview_1769296259227.png",
+    "type": "app",
+    "id": 1769296259227
+  },
+  {
+    "title": "NinjaTrader",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NinjaTrader\\NinjaTrader.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\ninjatrader_1769370382425.png",
+    "type": "app",
+    "id": 1769370382427
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\visual_studio_code_1769296273595.png",
+    "type": "app",
+    "id": 1769296273595
+  },
+  {
+    "title": "Spotify",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Spotify.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\spotify_1769297483272.png",
+    "type": "app",
+    "id": 1769297483272
+  },
+  {
+    "title": "Discord",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\discord_1779579055999.png",
+    "type": "app",
+    "group": null,
+    "id": 1779579056000
+  },
+  {
+    "title": "NexQ",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\NexQ.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\nexq_1789828021557.png",
+    "type": "app",
+    "group": null,
+    "id": 1789828021557
+  },
+  {
+    "title": "Wallpaper Engine",
+    "path": "explorer.exe shell:AppsFolder\\steam://rungameid/431960",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\wallpaper_engine_1769296163103.png",
+    "type": "app",
+    "id": 1768077880974
+  },
+  {
+    "title": "OBS Studio",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\obs_studio_1769296218710.png",
+    "type": "app",
+    "id": 1769296218710
+  },
+  {
+    "title": "qBittorrent",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\qBittorrent\\qBittorrent.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\qbittorrent_1769296248267.png",
+    "type": "app",
+    "id": 1769296248267
+  },
+  {
+    "title": "Ollama",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ollama.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\ollama_1769296238128.png",
+    "type": "app",
+    "id": 1769296238129
+  },
+  {
+    "title": "Windhawk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windhawk.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\windhawk_1769296433824.png",
+    "type": "app",
+    "id": 1769296433824
+  },
+  {
+    "title": "SteelSeries GG",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SteelSeries\\SteelSeries GG\\SteelSeries GG.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\steelseries_gg_1769296295897.png",
+    "type": "app",
+    "id": 1769296295897
+  },
+  {
+    "title": "Insta360 Link Controller",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\(Default)\\Insta360 Link Controller.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\insta360_link_controller_1789797852113.png",
+    "type": "app",
+    "group": null,
+    "id": 1789797852114
+  },
+  {
+    "title": "Razer Synapse",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Razer\\Razer Synapse.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\razer_synapse_1769296300122.png",
+    "type": "app",
+    "id": 1769296300122
+  },
+  {
+    "title": "Wootility",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Wootility.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\wootility_1769296305236.png",
+    "type": "app",
+    "id": 1769296305236
+  },
+  {
+    "title": "KANALI",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\KANALI\\KANALI.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\kanali_1769296320344.png",
+    "type": "app",
+    "id": 1769296320344
+  },
+  {
+    "title": "L-Connect 3",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Lian-Li\\L-Connect 3\\L-Connect 3.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\l-connect_3_1769296338056.png",
+    "type": "app",
+    "id": 1769296338057
+  },
+  {
+    "title": "Samsung Magician",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Samsung Magician\\Samsung Magician.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\samsung_magician_1769296314863.png",
+    "type": "app",
+    "id": 1769296314864
+  },
+  {
+    "title": "HYTE Nexus",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HYTE Nexus.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\hyte_nexus_1769296326189.png",
+    "type": "app",
+    "id": 1769296326189
+  },
+  {
+    "title": "MSI Afterburner",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MSI Afterburner\\MSI Afterburner.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\msi_afterburner_1769296331017.png",
+    "type": "app",
+    "id": 1769296331017
+  },
+  {
+    "title": "AISnatch",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\GIGABYTE\\AISnatch\\AISnatch.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\aisnatch_1769296397069.png",
+    "type": "app",
+    "id": 1769296397070
+  },
+  {
+    "title": "AMD Software",
+    "path": "explorer.exe shell:AppsFolder\\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_0a9344xs7nr4m!AMDRadeonsoftwareUWP",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\amd_software_1769296406774.png",
+    "type": "app",
+    "id": 1769296406775
+  },
+  {
+    "title": "GIMP 3.0.6-1",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\GIMP 3.0.6-1.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\gimp_306-1_1769296456107.png",
+    "type": "app",
+    "id": 1769296456107
+  },
+  {
+    "title": "BleachBit",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\BleachBit\\BleachBit.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\bleachbit_1769296486633.png",
+    "type": "app",
+    "id": 1769296486634
+  },
+  {
+    "title": "Revo Uninstaller",
+    "path": "C:/Program Files/VS Revo Group/Revo Uninstaller/RevoUnin.exe",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\revo_uninstaller_1769296664180.jpg",
+    "type": "app",
+    "id": 1769296581832
+  },
+  {
+    "title": "PowerISO",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerISO\\PowerISO.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\poweriso_1769296860043.png",
+    "type": "app",
+    "id": 1769296860044
+  },
+  {
+    "title": "VLC media player",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\vlc_media_player_1769296868168.png",
+    "type": "app",
+    "id": 1769296868168
+  },
+  {
+    "title": "Everything",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Everything.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\everything_1769296875734.png",
+    "type": "app",
+    "id": 1769296875735
+  },
+  {
+    "title": "Proton VPN",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Proton\\Proton VPN.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\proton_vpn_1769296886658.png",
+    "type": "app",
+    "id": 1769296886659
+  },
+  {
+    "title": "7-Zip File Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\7-zip_file_manager_1769296933355.png",
+    "type": "app",
+    "id": 1769296933355
+  },
+  {
+    "title": "Taskbar Hide",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Taskbar Hide.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\taskbar_hide_1769296999629.png",
+    "type": "app",
+    "id": 1769296999629
+  },
+  {
+    "title": "Notion",
+    "path": "C:\\Users\\wowac\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Notion.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\notion_1769297200127.png",
+    "type": "app",
+    "id": 1769297200127
+  },
+  {
+    "title": "Microsoft Teams",
+    "path": "explorer.exe shell:AppsFolder\\MSTeams_8wekyb3d8bbwe!MSTeams",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\microsoft_teams_1769297059994.png",
+    "type": "app",
+    "id": 1769297059995
+  },
+  {
+    "title": "Zoom Workplace",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Zoom Workplace.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\zoom_workplace_1769296286976.png",
+    "type": "app",
+    "id": 1769296286977
+  },
+  {
+    "title": "LocalSend",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LocalSend.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\localsend_1769377414330.png",
+    "type": "app",
+    "id": 1769377414330
+  },
+  {
+    "title": "NVIDIA Control Panel",
+    "path": "explorer.exe shell:AppsFolder\\NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\nvidia_control_panel_1779412361382.png",
+    "type": "app",
+    "id": 1779412361383
+  },
+  {
+    "title": "NVIDIA App",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\NVIDIA App.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\nvidia_app_1779412379032.png",
+    "type": "app",
+    "id": 1779412379033
+  },
+  {
+    "title": "Windows HDR Calibration",
+    "path": "explorer.exe shell:AppsFolder\\MicrosoftCorporationII.WindowsHDRCalibration_8wekyb3d8bbwe!App",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\windows_hdr_calibration_1779496436274.png",
+    "type": "app",
+    "id": 1779496436276
+  },
+  {
+    "title": "Flawless Widescreen",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Flawless Widescreen\\Flawless Widescreen.lnk",
+    "icon": "C:\\Users\\wowac\\.config\\yasb\\launchpad\\icons\\flawless_widescreen_1779666218240.png",
+    "type": "app",
+    "group": null,
+    "id": 1779666218241
+  }
+]
